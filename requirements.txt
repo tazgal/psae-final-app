@@ -9,4 +9,4 @@ natural-pdf==0.3.2
 PyMuPDF==1.26.4
 streamlit-pdf-viewer==0.0.26
 Pillow==11.1.0
-plotly==5.25.0
+plotly==5.25.0plotly==5.25.0
