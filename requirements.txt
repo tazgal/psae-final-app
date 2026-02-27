@@ -7,7 +7,7 @@ feedparser==6.0.11
 fitz==0.0.1.dev2
 flair==0.15.1
 folium==0.19.4
-gensim==4.3.3
+gensim
 google_api_python_client==2.184.0
 google_auth_oauthlib==1.2.2
 html2docx==1.6.0
@@ -15,7 +15,7 @@ matplotlib==3.8.4
 mistralai==1.12.4
 natural_pdf==0.3.2
 nltk==3.9.1
-numpy==2.4.2
+numpy
 openai_whisper==20250625
 pandas==3.0.1
 pdfplumber==0.11.9
