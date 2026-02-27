@@ -1,3 +1,4 @@
+plotly==5.25.0
 streamlit==1.50.0
 streamlit-option-menu==0.4.0
 streamlit-navigation-bar==3.3.0
@@ -9,4 +10,5 @@ natural-pdf==0.3.2
 PyMuPDF==1.26.4
 streamlit-pdf-viewer==0.0.26
 Pillow==11.1.0
-plotly==5.25.0plotly==5.25.0
+
+
