@@ -4,7 +4,7 @@ chromadb
 dateparser
 faiss_cpu
 feedparser
-fitz
+PyMuPDF
 flair
 folium
 gensim
