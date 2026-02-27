@@ -1,0 +1,115 @@
+meta:
+  title: Στοιχεία_ενέργεια_2021
+  description: ''
+  source: ''
+  created: '2026-01-14T08:17:58'
+  version: 1
+data:
+  meta:
+    title: energy_crisis_support_profitability
+    topic: energy
+    subtopic: state_support_profitability
+    period: 2021-2024
+  state_support:
+    europe_uk:
+      total_spending_eur: 500000000000
+      description: Δαπάνες ΕΕ και Βρετανίας για την ενεργειακή κρίση
+      source: Bruegel
+      date: '2022-09-22'
+    greece:
+      gdp_share_percent: 3.6
+      estimated_amount_eur: 70000000000
+      rank_gdp_share: 2
+      note: Δεύτερη θέση ως ποσοστό ΑΕΠ (εκτίμηση)
+    germany:
+      uniper_nationalization_eur: 29000000000
+      total_energy_measures_eur: 200000000000
+      three_companies_total_eur: 40000000000
+  corporate_profits:
+    global_energy_companies:
+      q2_2022_usd: 62000000000
+      description: Κέρδη 5 μεγαλύτερων αμερικανικών & ευρωπαϊκών πολυεθνικών
+    fossil_fuel_companies:
+      q1_2022_usd: 93300000000
+      average_profit_increase_percent: 127
+      max_profit_increase_percent: 449
+      source: Καθημερινή 14/10
+  greece_energy_groups_q1_2024:
+    Mytilineos_eur_m: 184
+    DEI_eur_m: 459
+    Motor_Oil_Hellas_eur_m: 49
+    GEK_TERNA_eur_m: 81.7
+  listed_companies_profit_share:
+    top_energy_refineries:
+      companies:
+      - HELLENiQ_Energy
+      - Motor_Oil
+      profit_share_percent: 50
+      total_profits_eur: 1500000000
+  electricity_generation_mix:
+    first_8_months:
+      renewables_percent: 37.5
+      natural_gas_percent: 37.2
+      lignite_percent: 11.3
+      note: ΑΠΕ ξεπέρασαν το φυσικό αέριο για πρώτη φορά
+    imports_exports:
+      imports_percent: 5.4
+      lowest_since: 2013
+      august_net_exports: true
+  gas_market:
+    russian_gas_dependency:
+      before_war_percent: 40
+      after_war_percent: 9
+    gas_price_increase_percent: 250
+  lng_market:
+    freight_cost_increase_percent: 500
+    daily_charter_usd:
+      october_11: 397000
+      previous_day: 374000
+      possible_future: 1000000
+    eu_us_lng_demand_increase_percent: 65
+    source: ΕφΣυν 12/11/2022
+  profit_growth_selected_companies:
+    Mytilineos_2021_percent: 26
+    TERNA_Energeiaki_2021_percent: 19
+    ELPE_EBITDA_Q1_2021_percent: 54
+    Motor_Oil_H1_2022_percent: 450
+    DEI_Renewables_H1_2022_percent: 1300
+    DEDDIE_H1_2022_percent: 300
+  mytilineos_9m_2022:
+    turnover:
+      eur_m: 4573
+      increase_percent: 169
+    net_profits:
+      eur_m: 312
+      increase_percent: 171
+    ebitda:
+      eur_m: 533
+      increase_percent: 121
+    earnings_per_share_eur: 2.618
+  lignite_participation:
+    eu_q2_2022:
+      lignite_increase_percent: 20
+      lignite_twh: 8
+      coal_increase_percent: 17
+      coal_twh: 6
+      source: Κομισιόν
+    greece:
+      target_production_twh: 10
+      previous_production_twh: 5
+      period: Aug 2022 - Aug 2023
+      december_daily_share_percent:
+        average: 20
+        peak: 34
+  electricity_imports_exports_volatility:
+    jan_aug_2022:
+      net_imports_gwh: 1912
+      lowest_since: 2013
+    august_2022:
+      exports_gwh: 361
+      net_exporter: true
+    december_2022:
+      net_imports_mwh: 215313
+      imports_share_percent:
+        average: 35
+        peak: 39.1

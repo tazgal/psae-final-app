@@ -1,0 +1,578 @@
+[
+    {
+        "name": "The Cradle",
+        "category": "international sources",
+        "subcategory": "geopolitics",
+        "url": "https://new.thecradle.co/"
+    },
+    {
+        "name": "NATO",
+        "category": "international sources",
+        "subcategory": "geopolitics",
+        "url": "https://www.nato.int/"
+    },
+    {
+        "name": "Atlantic Council",
+        "category": "international sources",
+        "subcategory": "geopolitics",
+        "url": "https://www.atlanticcouncil.org/"
+    },
+    {
+        "name": "Global Research",
+        "category": "international sources",
+        "subcategory": "geopolitics",
+        "url": "https://www.globalresearch.ca/"
+    },   
+    {
+        "name": "IISS (International Institute for Strategic Studies)",
+        "category": "international sources",
+        "subcategory": "geopolitics",
+        "url": "https://www.iiss.org/"
+    },
+    {
+        "name": "The Conversation (Europe)",
+        "category": "international sources",
+        "subcategory": "geopolitics",
+        "url": "https://theconversation.com/europe"
+    },
+    {
+        "name": "Foreign Affairs",
+        "category": "international sources",
+        "subcategory": "geopolitics",
+        "url": "https://www.foreignaffairs.com/"
+    },
+    {
+        "name": "WarNews247",
+        "category": "international sources",
+        "subcategory": "geopolitics",
+        "url": "https://warnews247.gr/"
+    },
+    {
+        "name": "SETA Think Tank (Turkey)",
+        "category": "international sources",
+        "subcategory": "geopolitics",
+        "url": "https://www.setav.org/en/"
+    },
+    {
+        "name": "ECFR (European Council on Foreign Relations)",
+        "category": "international sources",
+        "subcategory": "geopolitics",
+        "url": "https://ecfr.eu/about/"
+    },
+    {
+        "name": "Geopolitical Futures",
+        "category": "international sources",
+        "subcategory": "geopolitics",
+        "url": "https://geopoliticalfutures.com/welcome/"
+    },
+    {
+        "name": "Middle East Program | Wilson Center",
+        "category": "international sources",
+        "subcategory": "geopolitics",
+        "url": "https://www.wilsoncenter.org/program/middle-east-program"
+    },
+    {
+        "name": "Bloomberg Geopolitics",
+        "category": "international sources",
+        "subcategory": "geopolitics",
+        "url": "https://www.bloomberg.com/politics"
+    },
+    {
+        "name": "Arab Center Washington DC",
+        "category": "international sources",
+        "subcategory": "geopolitics",
+        "url": "https://arabcenterdc.org/"
+    },
+    {
+        "name": "Essydo",
+        "category": "international sources",
+        "subcategory": "geopolitics",
+        "url": "https://essydo.com/"
+    },
+    {
+        "name": "Twitter: @BePanos4471",
+        "category": "international sources",
+        "subcategory": "geopolitics",
+        "url": "https://twitter.com/BePanos4471"
+    },  
+    {
+      "name": "Axios",
+      "category": "international sources",
+      "subcategory": "west",
+      "url": "https://www.axios.com/"
+    },
+    {
+      "name": "Al Jazeera",
+      "category": "international sources",
+      "subcategory": "Eurasia",
+      "url": "https://www.aljazeera.com/"
+    },
+    {
+      "name": "Reuters World",
+      "category": "international sources",
+      "subcategory": "west",
+      "url": "https://www.reuters.com/news/world"
+    },
+    {
+      "name": "BBC Monitoring – Global News",
+      "category": "international sources",
+      "subcategory": "west",
+      "url": "https://monitoring.bbc.co.uk/"
+    },
+    {
+      "name": "Al Jazeera | Crisis Zones",
+      "category": "international sources",
+      "subcategory": "west",
+      "url": "https://www.aljazeera.com/news/"
+    },
+    {
+      "name": "CNN",
+      "category": "international sources",
+      "subcategory": "west",
+      "url": "https://edition.cnn.com"
+    },
+    {
+      "name": "Bild",
+      "category": "international sources",
+      "subcategory": "west",
+      "url": "https://www.bild.de"
+    },
+    {
+      "name": "DW",
+      "category": "international sources",
+      "subcategory": "west",
+      "url": "https://www.dw.com/en/top-stories/s-9097"
+    },
+    {
+      "name": "Liberation",
+      "category": "international sources",
+      "subcategory": "west",
+      "url": "https://www.liberation.fr"
+    },
+    {
+      "name": "El Pais",
+      "category": "international sources",
+      "subcategory": "west",
+      "url": "https://elpais.com"
+    },
+    {
+      "name": "La Vanguardia",
+      "category": "international sources",
+      "subcategory": "west",
+      "url": "https://www.lavanguardia.com"
+    },
+    {
+      "name": "Repubblica",
+      "category": "international sources",
+      "subcategory": "west",
+      "url": "https://www.repubblica.it"
+    },
+    {
+      "name": "Corriere",
+      "category": "international sources",
+      "subcategory": "west",
+      "url": "https://www.corriere.it"
+    },
+    {
+      "name": "BRICS Affairs Greece",
+      "category": "international sources",
+      "subcategory": "Eurasia",
+      "url": "https://bricsaffairs.gr/"
+    },
+    {
+        "name": "Kosmodromio",
+        "category": "international sources",
+        "subcategory": "Eurasia",
+        "url": "https://kosmodromio.gr/"
+    },
+    {
+      "name": "CGTN",
+      "category": "international sources",
+      "subcategory": "Eurasia",
+      "url": "https://www.cgtn.com/"
+    },
+    {
+        "name": "Indo-Pacific Info",
+        "category": "international sources",
+        "subcategory": "Eurasia",
+        "url": "https://twitter.com/IndoPac_Info"
+    },
+    {
+        "name": "Max Seddon (FT)",
+        "category": "international sources",
+        "subcategory": "Eurasia",
+        "url": "https://twitter.com/maxseddon"
+    },
+    {
+        "name": "Institute of World Economics and Politics (CASS)",
+        "category": "international sources",
+        "subcategory": "Eurasia",
+        "url": "https://www.notion.so/Institute-of-World-Economics-and-Politics-Chinese-Academy-of-Social-Sciences-1-20fc00bf9fa880de90efd89a7a632aaa?pvs=21"
+    },
+    {
+        "name": "China Law Translate",
+        "category": "international sources",
+        "subcategory": "Eurasia",
+        "url": "https://www.chinalawtranslate.com/"
+    },
+    {
+        "name": "Shanghai Cooperation Organisation",
+        "category": "international sources",
+        "subcategory": "Eurasia",
+        "url": "https://eng.sectsco.org/"
+    },
+    {
+      "name": "RAND",
+      "category": "international sources",
+      "subcategory": "Osint",
+      "url": "https://www.rand.org"
+   },
+    {
+      "name": "Πρώτο Θέμα",
+      "category": "news",
+      "subcategory": "general",
+      "url": "https://www.protothema.gr/"
+    },
+    {
+      "name": "in.gr",
+      "category": "news",
+      "subcategory": "general",
+      "url": "https://www.in.gr/"
+    },
+    {
+      "name": "CNN Greece",
+      "category": "news",
+      "subcategory": "general",
+      "url": "https://www.cnn.gr/"
+    },
+    {
+        "name": "New Money",
+        "category": "news",
+        "subcategory": "general",
+        "url": "https://www.newmoney.gr"
+    },
+    {
+        "name": "Newsit",
+        "category": "news",
+        "subcategory": "general",
+        "url": "https://www.newsit.gr/"
+      },
+
+    {
+      "name": "Ναυτεμπορική",
+      "category": "news",
+      "subcategory": "general",
+      "url": "https://www.naftemporiki.gr/"
+    },
+    {
+      "name": "Capital",
+      "category": "news",
+      "subcategory": "general",
+      "url": "https://www.capital.gr/"
+    },
+    {
+      "name": "Καθημερινή",
+      "category": "news",
+      "subcategory": "general",
+      "url": "https://www.kathimerini.gr/"
+    },
+    {
+      "name": "Εφημερίδα των Συντακτών",
+      "category": "news",
+      "subcategory": "general",
+      "url": "https://www.efsyn.gr/"
+    },
+    {
+      "name": "ieidiseis.gr",
+      "category": "news",
+      "subcategory": "general",
+      "url": "https://www.ieidiseis.gr/"
+    },
+    {
+      "name": "mononews",
+      "category": "news",
+      "subcategory": "general",
+      "url": "https://www.mononews.gr/"
+    },
+    {
+        "name": "S&P PMI",
+        "category": "global economy",
+        "subcategory": "general",
+        "url": "https://www.pmi.spglobal.com/"
+    },
+    {
+        "name": "Brookings",
+        "category": "global economy",
+        "subcategory": "think tanks",
+        "url": "https://www.brookings.edu"
+    },
+    {
+      "name": "Sigmanomics",
+      "category": "global economy",
+      "subcategory": "think tanks",
+      "url": "  https://sigmanomics.com/"
+    },
+    {
+        "name": "Google News (Economy)",
+        "category": "global economy",
+        "subcategory": "general",
+        "url": "https://news.google.com/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx6TVdZU0FtVnVHZ0pWVXlnQVAB?hl=en-US&gl=US&ceid=US%3Aen"
+    },
+    {
+        "name": "OECD",
+        "category": "global economy",
+        "subcategory": "think tanks",
+        "url": "https://www.oecd.org/"
+    },
+    {
+        "name": "IMF",
+        "category": "global economy",
+        "subcategory": "think tanks",
+        "url": "https://www.imf.org/en/Home"
+    },
+    {
+        "name": "World Bank",
+        "category": "global economy",
+        "subcategory": "think tanks",
+        "url": "https://www.worldbank.org/en/home"
+    },
+
+    {
+        "name": "MarketWatch",
+        "category": "global economy",
+        "subcategory": "general",
+        "url": "https://www.marketwatch.com/"
+    },
+    {
+        "name": "Economic Times (US Recession Article)",
+        "category": "global economy",
+        "subcategory": "general",
+        "url": "https://economictimes.indiatimes.com/news/international/us/25-chance-of-u-s-recession-says-goldman-sachs-economists-should-you-be-worried/articleshow/112293286.cms?from=mdr"
+    },
+    {
+        "name": "Investopedia",
+        "category": "global economy",
+        "subcategory": "general",
+        "url": "https://www.investopedia.com/"
+    },
+    {
+        "name": "Journal of Monetary Economics",
+        "category": "global economy",
+        "subcategory": "general",
+        "url": "https://www.sciencedirect.com/journal/journal-of-monetary-economics"
+    },
+    {
+        "name": "IMF Blogs",
+        "category": "global economy",
+        "subcategory": "general",
+        "url": "https://www.imf.org/en/Blogs"
+    },
+    {
+        "name": "Geopolitical Economy",
+        "category": "global economy",
+        "subcategory": "general",
+        "url": "https://geopoliticaleconomy.com/"
+    },
+    {
+        "name": "Euronews – European Economy",
+        "category": "global economy",
+        "subcategory": "general",
+        "url": "https://www.euronews.com/tag/european-economy"
+    },
+    {
+        "name": "Statista",
+        "category": "global economy",
+        "subcategory": "general",
+        "url": "https://www.statista.com/"
+    },
+    {
+        "name": "European Central Bank (ECB)",
+        "category": "global economy",
+        "subcategory": "general",
+        "url": "http://ecb.europa.eu/home/html/index.en.html"
+    },
+    {
+        "name": "S&P Global",
+        "category": "global economy",
+        "subcategory": "general",
+        "url": "https://www.spglobal.com/en"
+    },
+    {
+        "name": "Moody’s",
+        "category": "global economy",
+        "subcategory": "general",
+        "url": "https://www.moodys.com/"
+    },
+    {
+        "name": "Econovis",
+        "category": "global economy",
+        "subcategory": "general",
+        "url": "https://www.econovis.net/"
+    },
+    {
+        "name": "ΙΟΒΕ",
+        "category": "economy",
+        "subcategory": "organizations",
+        "url": "http://iobe.gr"
+    },
+    {
+        "name": "Τράπεζα της Ελλάδος (ΤτΕ)",
+        "category": "economy",
+        "subcategory": "organizations",
+        "url": "https://www.bankofgreece.gr/"
+      },
+      {
+        "name": "Γραφείο Προϋπολογισμού του Κράτους στη Βουλή",
+        "category": "economy",
+        "subcategory": "organizations",
+        "url": "https://www.pbo.gr/"
+      },
+      {
+        "name": "ΚΕΠΕ",
+        "category": "economy",
+        "subcategory": "organizations",
+        "url": "https://www.kepe.gr/"
+      },
+      {
+        "name": "ΣΕΒ",
+        "category": "economy",
+        "subcategory": "organizations",
+        "url": "https://www.sev.org.gr/"
+      },
+      {
+        "name": "ΕΛΣΤΑΤ",
+        "category": "economy",
+        "subcategory": "organizations",
+        "url": "https://www.statistics.gr/"
+      },
+      {
+        "name": "ΔιαΝΕΟσις",
+        "category": "economy",
+        "subcategory": "organizations",
+        "url": "https://www.dianeosis.org/"
+      },
+      {
+        "name": "Capital.gr – Οικονομία",
+        "category": "economy",
+        "subcategory": "news",
+        "url": "https://www.capital.gr/oikonomia/"
+      },
+      {
+        "name": "Forin.gr (Φορολογικά)",
+        "category": "economy",
+        "subcategory": "news",
+        "url": "https://www.forin.gr/"
+      }, 
+      {
+        "name": "Tax Foundation – Greece",
+        "category": "economy",
+        "subcategory": "news",
+        "url": "https://taxfoundation.org/location/greece/"
+      },
+      {
+        "name": "Καθημερινή – Οικονομία",
+        "category": "economy",
+        "subcategory": "news",
+        "url": "https://www.kathimerini.gr/economy/"
+      },
+      {
+        "name": "Οικονομικός Ταχυδρόμος (OT)",
+        "category": "economy",
+        "subcategory": "news",
+        "url": "https://www.ot.gr/"
+      },
+      {
+        "name": "Mononews",
+        "category": "economy",
+        "subcategory": "news",
+        "url": "https://www.mononews.gr/"
+      },
+      {
+        "name": "The TOC – Ναυτιλία",
+        "category": "economy",
+        "subcategory": "lists etc",
+        "url": "https://www.thetoc.gr/tags/afieroma-nautilias-2024/?page=2"
+      },
+      {
+        "name": "Euro2day – New Deal",
+        "category": "economy",
+        "subcategory": "lists etc",
+        "url": "https://www.euro2day.gr/newdeal/249/list.html"
+      },
+      {
+        "name": "Οικονομικά Γραφεία ΥΠΕΞ (Agora)",
+        "category": "economy",
+        "subcategory": "organizations",
+        "url": "https://agora.mfa.gr/index.php?option=com_agora&view=search&Itemid=944&list_limit=10&countries%5B%5D=107"
+      },
+    {
+        "name": "To Vima - Vimatodotis",
+        "category": "parapolitical",
+        "subcategory": "political",
+        "url": "https://www.tovima.gr/editor/vimatodotis/"
+    },
+    {
+        "name": "Powergame - Big Mouth",
+        "category": "parapolitical",
+        "subcategory": "political",
+        "url": "https://www.powergame.gr/category/big-mouth/"
+    },
+    {
+        "name": "New Money - Dark Room",
+        "category": "parapolitical",
+        "subcategory": "political",
+        "url": "https://www.newmoney.gr/category/dark-room/"
+    },
+    {
+        "name": "Kathimerini - Theoreio",
+        "category": "parapolitical",
+        "subcategory": "political",
+        "url": "https://www.kathimerini.gr/columns/theoreio/"
+    },
+    {
+        "name": "Kathimerini - Business Talk",
+        "category": "parapolitical",
+        "subcategory": "political",
+        "url": "https://www.kathimerini.gr/columns/business-talk/"
+    },
+    {
+        "name": "Newpost - Hard Talks",
+        "category": "parapolitical",
+        "subcategory": "political",
+        "url": "https://newpost.gr/hard-talks/1"
+    },
+    {
+        "name": "Newsit - Με το Γάντι (Blogs)",
+        "category": "parapolitical",
+        "subcategory": "political",
+        "url": "https://www.newsit.gr/category/blogs/me-to-ganti/"
+    },
+    {
+        "name": "Newsit - Αποκρυπτογράφος (Blogs)",
+        "category": "parapolitical",
+        "subcategory": "political",
+        "url": "https://www.newsit.gr/category/blogs/apocryptografos/"
+    },
+    {
+        "name": "News 24/7 - Επισυνδέσεις",
+        "category": "parapolitical",
+        "subcategory": "political",
+        "url": "https://www.notion.so/News-24-7-17ac00bf9fa8813da3add14b6faa8ebf?pvs=21"
+    },
+    {
+        "name": "Naftemporiki - Παρασκήνιακα",
+        "category": "parapolitical",
+        "subcategory": "political",
+        "url": "https://www.naftemporiki.gr/paraskiniaka/"
+    },
+    {
+        "name": "Mononews - The Wiseman",
+        "category": "parapolitical",
+        "subcategory": "political",
+        "url": "https://www.mononews.gr/category/oikonomia/thewiseman"
+    }
+      
+
+      
+  ]
+  

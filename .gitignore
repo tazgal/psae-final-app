@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Environment & secrets
+.env
+.env.local
+*.toml
+credentials.json
+credentials.json.local
+secrets.toml
+
+# Large files (για LFS)
+*.db
+*.mp4
+*.mov
+*.avi
+*.mkv
+
+# Mac OS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Local backups
+*.local
+*.bak

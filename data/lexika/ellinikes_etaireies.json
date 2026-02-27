@@ -1,0 +1,217 @@
+{
+    "COSMOTE": {
+      "url": "https://www.cosmote.gr/",
+      "type": "τηλεπικοινωνίες",
+      "description": "Κορυφαία εταιρεία τηλεπικοινωνιών στην Ελλάδα"
+    },
+    "NOVA": {
+      "url": "https://www.nova.gr/",
+      "type": "τηλεπικοινωνίες", 
+      "description": "Πάροχος δορυφορικής και καλωδιακής τηλεόρασης"
+    },
+    "Vodafone": {
+      "url": "https://www.vodafone.gr/",
+      "type": "τηλεπικοινωνίες",
+      "description": "Παγκόσμιος πάροχος κινητής τηλεφωνίας"
+    },
+    "WIND": {
+      "url": "https://www.wind.gr/",
+      "type": "τηλεπικοινωνίες",
+      "description": "Εταιρεία κινητής τηλεφωνίας και internet"
+    },
+    "ΣΚΛΑΒΕΝΙΤΗΣ": {
+      "url": "https://www.sklavenitis.gr/",
+      "type": "λιανική",
+      "description": "Μεγαλύτερη αλυσίδα σούπερ μάρκετ στην Ελλάδα"
+    },
+    "ΑΒ Βασιλόπουλος": {
+      "url": "https://www.ab.gr/",
+      "type": "λιανική",
+      "description": "Αλυσίδα σούπερ μάρκετ"
+    },
+    "LIDL": {
+      "url": "https://www.lidl.gr/",
+      "type": "λιανική",
+      "description": "Γερμανική αλυσίδα σούπερ μάρκετ"
+    },
+    "MyMarket": {
+      "url": "https://www.mymarket.gr/",
+      "type": "λιανική",
+      "description": "Αλυσίδα σούπερ μάρκετ"
+    },
+    "JUMBO": {
+      "url": "https://www.jumbo.gr/",
+      "type": "λιανική",
+      "description": "Εταιρεία παιχνιδιών και οικιακών ειδών"
+    },
+    "ΙΚΕΑ": {
+      "url": "https://www.ikea.gr/",
+      "type": "λιανική",
+      "description": "Σουηδική εταιρεία έπιπλα και οικιακών ειδών"
+    },
+    "Plaisio": {
+      "url": "https://www.plaisio.gr/",
+      "type": "τεχνολογία",
+      "description": "Εταιρεία ηλεκτρονικών και τεχνολογίας"
+    },
+    "Public": {
+      "url": "https://www.public.gr/",
+      "type": "τεχνολογία",
+      "description": "Αλυσίδα καταστημάτων τεχνολογίας και βιβλίων"
+    },
+    "Eurobank": {
+      "url": "https://www.eurobank.gr/",
+      "type": "τράπεζα",
+      "description": "Μία από τις τέσσερις συστημικές τράπεζες της Ελλάδας"
+    },
+    "Εθνική Τράπεζα": {
+      "url": "https://www.nbg.gr/",
+      "type": "τράπεζα",
+      "description": "Η μεγαλύτερη τράπεζα της Ελλάδας"
+    },
+    "Alpha Bank": {
+      "url": "https://www.alpha.gr/",
+      "type": "τράπεζα",
+      "description": "Μία από τις κύριες τράπεζες της Ελλάδας"
+    },
+    "Piraeus Bank": {
+      "url": "https://www.piraeusbank.gr/",
+      "type": "τράπεζα",
+      "description": "Συστημική τράπεζα στην Ελλάδα"
+    },
+    "Aegean Airlines": {
+      "url": "https://www.aegeanair.com/",
+      "type": "αεροπορία",
+      "description": "Μεγαλύτερη αεροπορική εταιρεία της Ελλάδας"
+    },
+    "Olympic Air": {
+      "url": "https://www.olympicair.com/",
+      "type": "αεροπορία",
+      "description": "Ελληνική αεροπορική εταιρεία"
+    },
+    "Sky Express": {
+      "url": "https://www.skyexpress.gr/",
+      "type": "αεροπορία",
+      "description": "Ελληνική αεροπορική εταιρεία"
+    },
+    "ΕΛΤΑ": {
+      "url": "https://www.elta.gr/",
+      "type": "λογιστικές",
+      "description": "Ελληνική Ταχυδρομική Υπηρεσία"
+    },
+    "ACS Courier": {
+      "url": "https://www.acscourier.net/",
+      "type": "λογιστικές",
+      "description": "Εταιρεία ταχυμεταφορών"
+    },
+    "Geniki Taxydromiki": {
+      "url": "https://www.taxydromiki.gr/",
+      "type": "λογιστικές",
+      "description": "Υπηρεσία ταχυμεταφορών"
+    },
+    "Speedex": {
+      "url": "https://www.speedex.gr/",
+      "type": "λογιστικές",
+      "description": "Εταιρεία ταχυμεταφορών"
+    },
+    "ΔΕΗ": {
+      "url": "https://www.dei.gr/",
+      "type": "ενέργεια",
+      "description": "Δημόσια Εταιρεία Ηλεκτρισμού"
+    },
+    "Heron": {
+      "url": "https://www.heron.gr/",
+      "type": "ενέργεια",
+      "description": "Πάροχος ενέργειας"
+    },
+    "Protergia": {
+      "url": "https://www.protergia.gr/",
+      "type": "ενέργεια",
+      "description": "Πάροχος ηλεκτρικής ενέργειας και φυσικού αερίου"
+    },
+    "ΕΛΠΕ": {
+      "url": "https://www.helpe.gr/",
+      "type": "ενέργεια",
+      "description": "Ελληνικά Πετρέλαια - Εταιρεία παραγωγής και διάθεσης καυσίμων"
+    },
+    "Fage": {
+      "url": "https://www.fage.com/",
+      "type": "τροφίμα",
+      "description": "Εταιρεία γαλακτοκομικών προϊόντων"
+    },
+    "Delta": {
+      "url": "https://www.delta.gr/",
+      "type": "τροφίμα",
+      "description": "Εταιρεία γαλακτοκομικών προϊόντων"
+    },
+    "Vivartia": {
+      "url": "https://www.vivartia.com/",
+      "type": "τροφίμα",
+      "description": "Ομίλος τροφίμων"
+    },
+    "Coca-Cola 3E": {
+      "url": "https://www.coca-cola3e.gr/",
+      "type": "τροφίμα",
+      "description": "Ελληνικός εμφιαλωτής της Coca-Cola"
+    },
+    "Βεργίνα": {
+      "url": "https://www.vergina.beer/",
+      "type": "τροφίμα",
+      "description": "Ελληνική ζυθοποιία"
+    },
+    "Mythos": {
+      "url": "https://www.mythosbrewery.gr/",
+      "type": "τροφίμα",
+      "description": "Ελληνική ζυθοποιία"
+    },
+    "Skroutz": {
+      "url": "https://www.skroutz.gr/",
+      "type": "e-commerce",
+      "description": "Πλατφόρμα συγκρίσης τιμών και ηλεκτρονικών αγορών"
+    },
+    "Viva Wallet": {
+      "url": "https://www.vivawallet.com/",
+      "type": "fintech",
+      "description": "Εταιρεία ψηφιακών πληρωμών"
+    },
+    "Beat": {
+      "url": "https://thebeat.co/",
+      "type": "transportation",
+      "description": "Εφαρμογή κινητής για μετακινήσεις"
+    },
+    "efood": {
+      "url": "https://www.e-food.gr/",
+      "type": "e-commerce",
+      "description": "Πλατφόρμα delivery φαγητού"
+    },
+    "Box": {
+      "url": "https://www.box.gr/",
+      "type": "τεχνολογία",
+      "description": "Ηλεκτρονικό εμπόριο τεχνολογίας"
+    },
+    "Kotsovolos": {
+      "url": "https://www.kotsovolos.gr/",
+      "type": "τεχνολογία",
+      "description": "Αλυσίδα ηλεκτρικών συσκευών και τεχνολογίας"
+    },
+    "Germanos": {
+      "url": "https://www.germanos.gr/",
+      "type": "τεχνολογία",
+      "description": "Αλυσίδα καταστημάτων τεχνολογίας"
+    },
+    "Στέλιος Δημόπουλος": {
+      "url": "https://www.dimopoulos.gr/",
+      "type": "pharmacy",
+      "description": "Φαρμακευτικός όμιλος"
+    },
+    "Medicon": {
+      "url": "https://www.medicon.gr/",
+      "type": "pharmacy",
+      "description": "Φαρμακευτικός όμιλος"
+    },
+    "ΑΛΦΑ ΦΑΡΜΑ": {
+      "url": "https://www.alfa-pharma.gr/",
+      "type": "pharmacy",
+      "description": "Φαρμακευτικός όμιλος"
+    }
+  }

@@ -1,0 +1,25 @@
+{
+    "Copernicus": "https://forest-fire.emergency.copernicus.eu/apps/effis_current_situation/",
+    "Firedanger": "https://firedanger.gr/?fbclid=IwAR1qhqy9sbtj2-zXy4Og8NaGZ1fbEx0JgOhD833DrZKHhUtwYPz7w5yjlEA",
+    "Poseidon System": "https://poseidon.hcmr.gr/el/map?model=meteo&param=w10&date=2024-08-11T15:00:00Z&coords=38.540,23.906,6",
+    "Riskmap": "https://riskmap.beyond-eocenter.eu/",
+    "Καμμένες εκτάσεις": "http://fmrsvm.for.auth.gr/",
+    "Χάρτες ΟΗΕ": "https://unosat.org/",
+    "Custom maps": "https://www.mapchart.net/index.html",
+    "Wikiloc": "https://el.wikiloc.com/",
+    "Mapchart": "https://www.mapchart.net/",
+    "Mymaps": "https://www.google.com/maps/d/u/0/",
+    "transkriptor": "https://app.transkriptor.com",
+    "QGIS Training Manual — QGIS Documentation": "https://docs.qgis.org/latest/en/docs/training_manual/index.html",
+    "Storymaps": "https://storymap.knightlab.com/",
+    "GPX Studio": "https://gpx.studio/",
+    "Osmand": "https://osmand.net/map/#9/37.9667/23.7167",
+    "GeoNode": "https://geonode.org/",
+    "ArcGIS StoryMaps": "https://storymaps.arcgis.com/",
+    "Recogito in 10 Minutes": "https://recogito.pelagios.org/help/tutorial",
+    "Mapbox": "https://www.mapbox.com/",
+    "QGIS": "https://qgis.org/",
+    "Umap": "https://umap.openstreetmap.fr/en/",
+    "Scribble Maps": "https://www.scribblemaps.com/"
+  }
+  
