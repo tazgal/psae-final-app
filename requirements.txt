@@ -45,3 +45,4 @@ Unidecode
 whisper
 youtube_transcript_api
 yt_dlp
+newspaper3k
