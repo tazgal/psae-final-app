@@ -45,4 +45,6 @@ Unidecode
 whisper
 youtube_transcript_api
 yt_dlp
-newspaper3k
+newspaper3k==0.2.8
+lxml==4.9.4  # Παλαιότερη έκδοση που έχει το html.clean
+lxml_html_clean  # Εναλλακτικά, αυτό μπορεί να βοηθήσει
