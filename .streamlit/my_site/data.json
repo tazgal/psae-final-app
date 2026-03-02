@@ -1,0 +1,15 @@
+{
+    "sections": [
+      {
+        "title": "Καλώς ήρθατε",
+        "text": "Αυτή είναι η αρχική σελίδα του demo site μου.",
+        "image": "images/welcome.jpg"
+      },
+      {
+        "title": "Νέα",
+        "text": "Εδώ θα προστίθενται ενημερώσεις.",
+        "image": "images/news.jpg"
+      }
+    ]
+  }
+  

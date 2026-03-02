@@ -1247,7 +1247,53 @@ GREEK_TO_EN = {
     # ➕ Μεγάλες χώρες
     "Ρωσία": "Russia",
     "Κίνα": "China",
+    "Ινδία": "India",
+
+    "Τουρκία": "Turkey",
+    "Συρία": "Syria",
+    "Λίβανος": "Lebanon",
+    "Ισραήλ": "Israel",
+    "Παλαιστίνη": "Palestine",
+    "Ιορδανία": "Jordan",
+    "Ιράκ": "Iraq",
+    "Ιράν": "Iran",
+    "Σαουδική Αραβία": "Saudi Arabia",
+    "Κουβέιτ": "Kuwait",
+    "Κατάρ": "Qatar",
+    "Μπαχρέιν": "Bahrain",
+    "Ηνωμένα Αραβικά Εμιράτα": "United Arab Emirates",
+    "Ομάν": "Oman",
+    "Υεμένη": "Yemen",
+    "Αίγυπτος": "Egypt", 
+
+    "Αφγανιστάν": "Afghanistan",
+    "Πακιστάν": "Pakistan",
+    "Καζακστάν": "Kazakhstan",
+    "Ουζμπεκιστάν": "Uzbekistan",
+    "Τουρκμενιστάν": "Turkmenistan",
+    "Κιργιστάν": "Kyrgyzstan",
+    "Τατζικιστάν": "Tajikistan",
+
+    "Ινδονησία": "Indonesia",
+    "Μαλαισία": "Malaysia",
+    "Σιγκαπούρη": "Singapore",
+    "Ταϊλάνδη": "Thailand",
+    "Βιετνάμ": "Vietnam",
+    "Λάος": "Laos",
+    "Καμπότζη": "Cambodia",
+    "Μιανμάρ": "Myanmar",
+    "Φιλιππίνες": "Philippines",
+    "Μπρουνέι": "Brunei",
+    "Ανατολικό Τιμόρ": "Timor-Leste",
+
+    "Νεπάλ": "Nepal",
+    "Μπουτάν": "Bhutan",
+    "Μπανγκλαντές": "Bangladesh",
+    "Σρι Λάνκα": "Sri Lanka",
+    "Μαλδίβες": "Maldives",
     "Ινδία": "India"
+
+
 }
 
 

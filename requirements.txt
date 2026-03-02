@@ -1,11 +1,8 @@
 beautifulsoup4
-bertopic
-chromadb
 dateparser
 faiss_cpu
 feedparser
 PyMuPDF
-flair
 folium
 gensim
 google_api_python_client
@@ -16,7 +13,6 @@ mistralai
 natural_pdf
 nltk
 numpy
-openai_whisper
 pandas
 pdfplumber
 Pillow
